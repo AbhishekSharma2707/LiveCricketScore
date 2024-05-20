@@ -1,0 +1,8 @@
+/* Add animation styles here */
+.nav-link {
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    transform: translateY(-2px); /* Example animation on hover */
+}
